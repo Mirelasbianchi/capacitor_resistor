@@ -25,36 +25,30 @@ Foram realizadas simulações no **Tinkercad** e medições físicas em protoboa
 
 ## 🧠 Diagrama / Simulação
 🔗 **Link do projeto no Tinkercad:**  
-[👉 Clique aqui para acessar a simulação](https://www.tinkercad.com/)  
+[👉 Clique aqui para acessar a simulação](https://www.tinkercad.com/things/8z0XBuysRCH-fantastic-bigery-jaagub?sharecode=8eHVbMtAYBIYMo0QPcWY2C9yrUcnAek5yYfZhUczaoI)
 
 
 ---
 
 ## 📊 Resultados Experimentais
 
-### ⚙️ Gráfico 1 – Carga do Capacitor
- 
+### ⚙️ Gráfico 1 – Descarga do resistor
+![Gráfico de carga](./cap.png)
 
----
+### ⚙️ Gráfico 2 – Carga do Capacitor
+![Gráfico de descarga](./res.png)
 
-### ⚙️ Gráfico 2 – Descarga do Capacitor
-  
-
----
-
-### ⚙️ Gráfico 3 – Comparação entre carga e descarga
- 
-
----
-
-📷 Parte Física do Projeto
-🧰 Montagem em Protoboard
+### ⚙️ Gráfico 3 – Comparação entre Simulação e Dados Reais
+![Comparação](./duas.png)
 
 
+### 🧰 Montagem em Protoboard
+![Protoboard](./placa.jpg)
 
-⚡Dados gerados
+### ⚡ Dados físicos
+![ Dados](./dados.png)
 
-
+Após apertar o botão os dados gerados diminuem por conta da chave ativada.
 
 📚 Conclusão
 
